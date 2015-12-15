@@ -1,0 +1,1 @@
+ALTER TABLE `Cities` ADD PRIMARY KEY(`CityID`);

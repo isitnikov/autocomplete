@@ -1,0 +1,7 @@
+MYSQL_USER=root
+MYSQL_PASS=
+MYSQL_DATABASE=autocomplete
+MYSQL_PORT=3306
+MYSQL_HOST=localhost
+
+DATA_FILE="ВПИ_связка.mdb"

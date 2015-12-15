@@ -1,0 +1,1 @@
+ALTER TABLE `Streets` ADD PRIMARY KEY(`StrID`);

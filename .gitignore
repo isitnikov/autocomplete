@@ -18,3 +18,7 @@ temp/
 # Legacy ZF1
 demos/
 extras/documentation
+shell/config.sh
+
+.idea
+
